@@ -1,0 +1,9 @@
+prophet
+xgboost
+scikit-learn
+pandas
+numpy
+torch (or tensorflow)
+plotly
+fastapi
+uvicorn
